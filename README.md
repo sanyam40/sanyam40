@@ -2,7 +2,6 @@
 - 👀 **I’m a 2nd Year Full Stack CSE Student**
 - 📫 You can reach me at : **sanyamnarang40@gmail.com** | [Connect with me on LinkedIn](https://www.linkedin.com/in/sanyam40/)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 
