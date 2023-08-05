@@ -1,8 +1,8 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2155F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%E2%80%99m+Sanyam;Im++a+Full+Stack+Developer" alt="Typing SVG" /></a>
 - 👀 **I’m a 3rd Year Full Stack CSE Student**
 - 🌱 I’m currently learning **Frontend & Devops**
-- 📫You can reach me at : **sanyamnarang40@gmail.com**
-- [Link To My Resume](https://drive.google.com/file/d/1kbh_GTuhaOAUIqfmmkb95JQUXqo8330o/view?usp=sharing)
+- 📫 You can reach me at : **sanyamnarang40@gmail.com**
+- 📄 Here's a link to my resume for more details about my skills, projects, and experience: [Link To My Resume](https://drive.google.com/file/d/1kbh_GTuhaOAUIqfmmkb95JQUXqo8330o/view?usp=sharing)
 
 <h3 align="left">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"></h3>
 
