@@ -2,13 +2,13 @@
 - 👀 **I’m a 3rd Year CSE Student At The NorthCap University, Gurugram**
 - 📫 You can reach me at: **sanyamnarang40@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/sanyam40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam40" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanyam40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam40" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"></h3>
+# Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"></h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
