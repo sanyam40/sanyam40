@@ -1,7 +1,12 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2155F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%E2%80%99m+Sanyam;Im++a+Full+Stack+Developer" alt="Typing SVG" /></a>
 - 👀 **I’m a 3rd Year CSE Student At The NorthCap University, Gurugram**
-- 🌱 I’m currently learning **Frontend & DevOps**
 - 📫 You can reach me at: **sanyamnarang40@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sanyam40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam40" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanyam40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanyam40" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"></h3>
 
