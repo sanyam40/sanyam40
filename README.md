@@ -11,7 +11,7 @@ Hi, I'm Sanyam, a Full Stack Developer with a robust computer science foundation
   
 ## Projects
 1. **Billing Application** - Developed a Billing Application using the **MERN** stack. [Repo link](https://github.com/sanyam40/Billing-Application)
-2. **CVSkillsScreeningApp** - Developed a full-stack web application **Spring Boot** for the backend and **React.js** for the front end. [Repo Link](https://github.com/sanyam40/CVSkillsScreeningApp)
+2. **CVSkillsScreeningApp** - Developed a full-stack app Using **Spring Boot** for the backend and **React.js** for the front end. [Repo Link](https://github.com/sanyam40/CVSkillsScreeningApp)
 3. **Hotel Rating Service** - Developed a **Spring Boot** backend application with **Microservices.** [Repo link](https://github.com/sanyam/hotel-rating-microservices)
 4. **Project Tracking Application** - Built a JIRA-like project tracking app using **Spring MVC**. [Repo Link](https://github.com/sanyam/project-tracker)
 5. **Attendance marking system** - Developed using using Python **Flask** Framework. [Repo Link](https://github.com/sanyam40/Attendance-marking-system)
