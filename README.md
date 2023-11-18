@@ -1,18 +1,23 @@
-# Welcome to my GitHub profile
-Hello, I'm Sanyam, Full Stack Developer with hands-on experience in building robust applications and websites. I have a strong foundation in computer science principles and proficiency in several programming languages. Here's a glimpse into my professional journey and the exciting projects I've been working on.
+# Welcome to My GitHub Profile
 
-On my profile, you will find a variety of projects that showcase my abilities in various Programming Languages. Feel free to take a look around and see what I have been working on.
+Hi, I'm Sanyam, a Full Stack Developer with a robust computer science foundation and hands-on experience in application development. Explore my profile to discover diverse projects highlighting proficiency in multiple programming languages. Currently a pre-final year student at The NorthCap University, Gurugram.
 
-# Technical Skills :
-- Programming Languages: Java, C++
-- Frameworks: Spring Boot, Spring MVC, MERN Stack
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, Jenkins
-- Other: Microservices, CI/CD, REST APIs
-
-  # Connect with me
+## Tech Stack
+- **Programming Languages:** Java, C++
+- **Frameworks:** Spring Boot, Spring MVC, MERN Stack
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+- **Other:** Microservices, CI/CD, REST APIs
+  
+## Projects
+1. **Billing Application** - Developed a Billing Application using the **MERN** stack. [Repo link](https://github.com/sanyam40/Billing-Application)
+2. **CVSkillsScreeningApp** - Developed a full-stack web application **Spring Boot** for the backend and **React.js** for the front end. [Repo Link](https://github.com/sanyam40/CVSkillsScreeningApp)
+3. **Hotel Rating Service** - Developed a **Spring Boot** backend application with **Microservices.** [Repo link](https://github.com/sanyam/hotel-rating-microservices)
+4. **Project Tracking Application** - Built a JIRA-like project tracking app using **Spring MVC**. [Repo Link](https://github.com/sanyam/project-tracker)
+5. **Attendance marking system** - Developed using using Python **Flask** Framework. [Repo Link](https://github.com/sanyam40/Attendance-marking-system)
+ 
+## Connect with Me
 - GitHub: [sanyam40](https://github.com/sanyam)
 - LinkedIn: [sanyam40](https://www.linkedin.com/in/sanyam40/)
 - LeetCode: [sanyam40](https://leetcode.com/sanyam40/)
-- You can reach me at: sanyamnarang40@gmail.com
-
+- Email: sanyamnarang40@gmail.com
