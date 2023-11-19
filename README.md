@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm Sanyam, a Full Stack Developer with a robust computer science foundation and hands-on experience in application development. Explore my profile to discover diverse projects highlighting proficiency in multiple programming languages. Currently a pre-final year student at The NorthCap University, Gurugram.
+Hi, I'm Sanyam, a Full Stack Developer with a robust computer science foundation and hands-on experience in application development. Explore my profile to discover diverse projects highlighting proficiency in multiple programming languages. Currently a pre-final year student at The NorthCap University, Gurugram .
 
 ## Tech Stack <img width="20" height="20" src="https://github.com/sanyam40/sanyam40/assets/87993985/5a91759e-e04a-4b0f-8d64-e0076bf3eb55">
 - **Programming Languages:** Java, C++
