@@ -16,5 +16,4 @@ Hello, I'm Sanyam, a Full Stack Developer with a strong computer science backgro
 - LeetCode: [sanyam40](https://leetcode.com/sanyam40/)
 - Email: sanyamnarang40@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyam40&show_icons=true&locale=en&layout=compact&theme=dark" alt="sanyam40" /></p>
 
