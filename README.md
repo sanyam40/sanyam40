@@ -17,6 +17,7 @@ Hello, I'm Sanyam, a Full Stack Developer with a strong computer science backgro
 5. **Attendance marking system** - Developed using using Python **Flask** Framework. [Repo Link](https://github.com/sanyam40/Attendance-marking-system)
 
 ## Connect with Me <img  width="20" height="20" src="https://github.com/sanyam40/sanyam40/assets/87993985/03eb1703-3dcc-410c-9b1b-a2f0f148253c">
+- Portfolio: [Link](https://sanyam-portfolio-chi.vercel.app/)
 - GitHub: [sanyam40](https://github.com/sanyam)
 - LinkedIn: [sanyam40](https://www.linkedin.com/in/sanyam40/)
 - LeetCode: [sanyam40](https://leetcode.com/sanyam40/)
