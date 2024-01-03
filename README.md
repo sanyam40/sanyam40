@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2155F7&center=true&vCenter=true&width=435&lines=Hey+!%2C+I%E2%80%99m+Sanyam;+A+Full+Stack+Developer" alt="Typing SVG" /></a>
-- 👀 **I’m a 3rd year FullStack Student**
+- 👀 **I’m a 3rd year BTech CSE Student**
 - 🌱 I’m currently learning **AWS & React Native**
 - 📫 You can reach me at: **sanyamnarang40@gmail.com**
 
