@@ -1,4 +1,4 @@
 - ♨️ Hi there! I’m Sanyam
 - 👀 **I'm a Pre-Final Year CSE student with expertise in Full Stack Development & DevOps Tools.**
-- 📫 Feel free to reach out to me via email at [sanyamnarang40@gmail.com](mailto:sanyamnarang40@gmail.com), or browse through my portfolio at [sanyam.online](https://www.sanyam.online/)
+- 🔗 Feel free to reach out to me via email at [sanyamnarang40@gmail.com](mailto:sanyamnarang40@gmail.com), or browse through my portfolio at [sanyam.online](https://www.sanyam.online/)
 - ⌨ Check out my LeetCode profile [here](https://leetcode.com/sanyam40/).
