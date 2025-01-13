@@ -2,7 +2,7 @@
 
 I am a **DevOps & Full Stack Developer** specializing in creating scalable applications and managing cloud infrastructures, with a strong focus on automation, CI/CD pipelines, and containerized deployments.
 
-- 🔗 You can reach me at [sanyamnarang40@gmail.com](mailto:sanyamnarang40@gmail.com) or explore my portfolio at [sanyam.online](https://www.sanyam.online).
+- 🔗 You can reach me at [sanyamnarang40@gmail.com](mailto:sanyamnarang40@gmail.com).
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "25"> Tech Stack
 
